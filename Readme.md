@@ -1,3 +1,16 @@
+
+REST-API-With-Node-Express-TypeScript-MongoDB
+
+This is a simple REST API built with Node.js, Express, TypeScript, and MongoDB. It can be used as a starting point for building your own REST API, or as a reference for learning these technologies.
+
+Features:
+- Simple and easy to use
+- Well-documented
+- Secure and scalable
+- Supports all major HTTP methods (GET, POST, PUT, DELETE)
+- Uses TypeScript for type safety and code completion
+
+
 **Env Creation:**
 
     - Env: npm init -y
