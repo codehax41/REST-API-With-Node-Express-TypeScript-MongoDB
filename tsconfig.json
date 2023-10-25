@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext", //It indicates how the module import and export statements should be transpiled.
+        "moduleResolution": "node", //how the TypeScript compiler should resolve module imports, "node" to use Node.js-style module resolution.
+        "baseUrl": "src",
+        "outDir": "dist", // output directory where transpiled JavaScript files will be placed
+        "sourceMap": true, //Generates source map files alongside the transpiled JavaScript files
+        "noImplicitAny": true //Enforces strict type checking by raising an error when TypeScript cannot infer a variable's type
+    },
+
+    "include": ["*src/**/*"], //include all the folder/files in src folder
+}
