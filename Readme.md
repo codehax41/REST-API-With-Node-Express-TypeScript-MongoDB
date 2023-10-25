@@ -1,4 +1,5 @@
-**Env Creation: **
+Env Creation:
+
     - Env: npm init -y
     - Setup Typescript: npm install -D typescript
     - TS Node: npm install -D ts-node (or npm uninstall nodemon
@@ -6,6 +7,7 @@
 )
     - npm install -g ts-node
     - Keep the project running during all the changes: npm install -D nodemon
+    
 
 **Config Typescript:**
     - create src folder, and index.ts file inside it
@@ -38,15 +40,3 @@
 
 **To Run:**
     - npm start
-
-**#Typescript:**
-The main reason for writing TypeScript is to make JavaScript development better. TypeScript adds extra features to JavaScript that help catch mistakes early, make code easier to understand, and improve the overall development process.
-
-**#ExpressJs:**
-Express.js is a popular web framework for Node.js that simplifies the process of building web applications and APIs.
-
-**#MongoDB:**
-Mongoose is a popular library for interacting with MongoDB databases in a more structured and convenient way. It provides an Object Data Modeling (ODM) layer on top of MongoDB's native driver, allowing you to define schemas, models, and perform database operations using JavaScript objects.
-
-**#Calback Hell:**
-"Callback hell," also known as "pyramid of doom," refers to a situation in asynchronous programming where multiple nested callbacks are used, making the code difficult to read, understand, and maintain. This occurs when you have a series of asynchronous operations that depend on the results of each other, leading to deeply nested callback functions. The resulting code structure resembles a pyramid or a series of indentations, hence the name.
