@@ -1,13 +1,10 @@
-Env Creation:
+**Env Creation:**
 
     - Env: npm init -y
     - Setup Typescript: npm install -D typescript
-    - TS Node: npm install -D ts-node (or npm uninstall nodemon
- & npm install -g nodemon
-)
+    - TS Node: npm install -D ts-node (or npm uninstall nodemon & npm install -g nodemon)
     - npm install -g ts-node
     - Keep the project running during all the changes: npm install -D nodemon
-    
 
 **Config Typescript:**
     - create src folder, and index.ts file inside it
